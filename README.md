@@ -1,24 +1,10 @@
-# vue-calc
+## VueJS Calculator 
+This is my first official project using VueJS, a really simple calculator, to to fix some basics concepts about Vue.
 
-## Project setup
-```
-yarn install
-```
+### RunIt
+With `vue-cli` installed just use `yarn` to install dependencies (none) and `yarn serve`to run (i`m prefers yarn, be free to use npm instead).
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Screenshots
+![enter image description here](https://github.com/lucianodiisouza/vue-calculator/blob/master/screenshot/screenshot.png?raw=true)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Enjoy =) 
