@@ -20,13 +20,14 @@ export default {
 <style>
 :root {
   --bg-button: #f0f0f0;
-  --border-button: solid 1px #888;
+  --border-button: solid 1px #8888881a;
 }
 
 .button {
   font-size: 1.4em;
   background-color: var(--bg-button);
   border: none;
+  border-radius: 0;
   border-right: var(--border-button);
   border-bottom: var(--border-button);
   outline: none;
@@ -43,6 +44,7 @@ export default {
 }
 .button.operation {
   background-color: #fa8231;
+  font-weight: bold;
 }
 .button.operation:active {
   background-color: #fa8231cc;
